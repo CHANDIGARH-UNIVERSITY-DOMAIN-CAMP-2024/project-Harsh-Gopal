@@ -3,8 +3,8 @@
 A comprehensive dashboard for tracking and managing food waste with AI-powered insights, gamification, and sustainability metrics.
 
 ![Dashboard Preview](https://raw.githubusercontent.com/CHANDIGARH-UNIVERSITY-DOMAIN-CAMP-2024/project-Harsh-Gopal/main/Preview1.png)
-(https://raw.githubusercontent.com/CHANDIGARH-UNIVERSITY-DOMAIN-CAMP-2024/project-Harsh-Gopal/blob/main/Preview3.png)
-(https://raw.githubusercontent.com/CHANDIGARH-UNIVERSITY-DOMAIN-CAMP-2024/project-Harsh-Gopal/blob/main/Preview3.png)
+(https://raw.githubusercontent.com/CHANDIGARH-UNIVERSITY-DOMAIN-CAMP-2024/project-Harsh-Gopal/main/Preview2.png)
+(https://raw.githubusercontent.com/CHANDIGARH-UNIVERSITY-DOMAIN-CAMP-2024/project-Harsh-Gopal/main/Preview3.png)
 
 
 ## Features
